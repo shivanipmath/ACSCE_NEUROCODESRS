@@ -1,5 +1,5 @@
 # ACSCE_NEUROCODESRS
-Sentiment Analysis Web Application
+AI Customer Sentiment Analysis Web Application:
 Project Overview
 This Sentiment Analysis Web Application is designed to analyze the sentiment of text data and classify it as Positive, Negative, or Neutral. It utilizes natural language processing (NLP) techniques to determine the sentiment conveyed in a given text input. The project is implemented using Python, with a primary focus on the use of TextBlob for sentiment analysis, alongside Flask for creating the web interface.
 
