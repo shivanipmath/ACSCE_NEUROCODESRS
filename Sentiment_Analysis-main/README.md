@@ -3,9 +3,6 @@
 ## Overview
 This project is a web application for sentiment analysis. It allows users to input text and receive a sentiment analysis score indicating whether the sentiment is positive, negative, or neutral.
 
-## Live Demo
-You can access the live web application [here]((http://127.0.0.1:5000/)).
-
 ## Project Images
 
 ![Screenshot 1](./images/img_1.png)
