@@ -4,7 +4,7 @@
 This project is a web application for sentiment analysis. It allows users to input text and receive a sentiment analysis score indicating whether the sentiment is positive, negative, or neutral.
 
 ## Live Demo
-You can access the live web application [here](https://sentiment-analysis-ngla.onrender.com/).
+You can access the live web application [here]([https://sentiment-analysis-ngla.onrender.com/](http://127.0.0.1:5000/)).
 
 ## Project Images
 
